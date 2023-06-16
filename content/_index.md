@@ -23,27 +23,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Student
+          company: Home University
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2023-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
               * Analysing
-              * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Student
+          company: Home University
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2022-01-01'
+          date_end: '2022-12-31'
+          description: Sleeping
     design:
       columns: '2'
   - block: collection
@@ -95,8 +94,8 @@ sections:
         Here is how to contact me.
       # Contact (add or remove contact options as necessary)
       email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      #phone: 888 888 88 88
+      #appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
         city: Stanford
@@ -104,7 +103,7 @@ sections:
         postcode: '94305'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
