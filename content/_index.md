@@ -26,7 +26,7 @@ sections:
         - title: Student
           company: Home University
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-x
           location: Japan
           date_start: '2023-01-01'
           date_end: ''
@@ -52,7 +52,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 2
       # Filter on criteria
       filters:
         folders:
@@ -123,7 +123,7 @@ sections:
       autolink: False
       # Email form provider
       form:
-        provider: netlify
+        provider: #netlify
         formspree:
           id:
         netlify:
