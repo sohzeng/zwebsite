@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Cat
+title: ikun
 
 # Full name (for SEO)
-first_name: Cat
+first_name: ikun
 last_name: 
 
 # Status emoji
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Animal
+role: Artist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -50,10 +50,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: '/#contact-me'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: 
+    link: https://www.hiroshima-u.ac.jp/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
